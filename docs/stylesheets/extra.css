@@ -1,0 +1,13 @@
+.md-content img {
+    display: block;
+    width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+@media only screen and (min-width: 600px) {
+    .md-content img {
+        width: 70%;
+  }
+}

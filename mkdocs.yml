@@ -1,4 +1,6 @@
 site_name: Guide to Making a Simple Personal Webpage
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   features:
