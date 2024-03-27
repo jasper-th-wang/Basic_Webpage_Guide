@@ -1,17 +1,37 @@
-# Welcome to MkDocs
+# Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello 😀! This guide will walk you through how to make a simple personal webpage using VS Code. You will learn the basics of web development using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS). Our guide is intended to provide the foundation for creating and styling a webpage and equip you with essential knowledge for your future web development journey.
 
-## Commands
+> [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), or HyperText Markup Language, is the standard language used to create and design web pages. It consists of a set of tags and elements that structure the content and define its layout on a webpage.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), or Cascading Style Sheets, is a language used for styling the presentation of HTML elements on a webpage. It allows developers to control aspects like colors, fonts, spacing, and layout to enhance the visual appearance of the content.
 
-## Project layout
+## Who is this guide for
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This guide to making a simple webpage is for:
+
+- People who have some basic competency with file navigation and using a computer for general tasks
+- People with little to no knowledge of web development
+- People would like to start exploring how to make a simple webpage
+
+## What will you be making
+
+In the guide, you will make:
+
+- A personal webpage with information about yourself, and your unique design
+- A personal webpage consisting of an HTML and CSS file
+
+## What software do you need
+
+Before starting the guide, make sure you have the following installed:
+
+- A web browser (any browser like Edge, Chrome or Safari is fine)
+- The latest version of [ VS Code ](https://code.visualstudio.com/)
+
+## What tasks will you do
+
+The main sections of the guide will guide you to do these tasks:
+
+- Setting up a project structure for your webpage
+- Write the HTML code to add content to your webpage
+- Write the CSS code to style and customize the content
