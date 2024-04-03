@@ -73,7 +73,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
     
 
 4. Open your folder and double-click on index.html to open it in your browser.
-5. Below the **title** tag, paste the following code snippets.
+5. Below the `<title>` tag, paste the following code snippets.
 
     ??? abstract "Code Snippet"
         ```html
@@ -99,7 +99,9 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
 
     ![Project Setup Success](./assets/task1/task1-result.png)
    
-Your accomplishments so far
+## Your accomplishments so far
+
+By completing this section, you have:
 
 - [x] Set up a project directory for your webpage.
 - [x] Created an HTML file with the basic structure of a webpage.
