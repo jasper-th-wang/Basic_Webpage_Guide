@@ -127,3 +127,11 @@ You now have a blank slate to start adding your content! At any point during the
         </ul>
     </div>
     ```
+
+## Your accomplishments so far
+
+By completing this section, you have:
+
+- [x] Added the structure for your website
+- [x] Made a clickable link to your webpage that actually redirects to another website
+- [x] Structured your HTML using divs such that it can be styled more efficiently

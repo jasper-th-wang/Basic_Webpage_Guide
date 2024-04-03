@@ -65,9 +65,9 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
     !!! note "Metadata in HTML"
         In HTML, the header section contains important information about the document, such as its character encoding, viewport settings for responsive design, and the document's title. Additionally, it can include links to external resources like stylesheets using the <link> tag. To read more about this, see [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML).
 
-3. Between the **body** tag, type "Hello, world!"
+3. Between the `<body>` tag, type "Hello, world!"
 4. Open your folder and double-click on index.html to open it in your browser.
-5. Below the **title** tag, paste the following code snippets.
+5. Below the `<title>` tag, paste the following code snippets.
 
     ??? abstract "Code Snippet"
         ```html
@@ -93,7 +93,9 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
 
     ![Project Setup Success](./assets/task1/task1-result.png)
    
-Your accomplishments so far
+## Your accomplishments so far
+
+By completing this section, you have:
 
 - [x] Set up a project directory for your webpage.
 - [x] Created an HTML file with the basic structure of a webpage.
