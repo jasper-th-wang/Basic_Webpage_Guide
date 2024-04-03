@@ -45,7 +45,7 @@ The main sections of the guide will guide you to do these tasks:
     </div>
     ```
 
-Code snippets give sample code to copy and paste into your project. You can copy the whole snippet by clicking the icon on the top right.
+Code snippets give sample code to copy and paste into your project. You can copy the whole snippet by clicking the icon on the top right of the code box.
 
 
 ### Notes
