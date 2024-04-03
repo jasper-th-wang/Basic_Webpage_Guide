@@ -59,13 +59,19 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
            <title>Document</title>
          </head>
          <body>
+         ###
          </body>
          ```
 
     !!! note "Metadata in HTML"
         In HTML, the header section contains important information about the document, such as its character encoding, viewport settings for responsive design, and the document's title. Additionally, it can include links to external resources like stylesheets using the <link> tag. To read more about this, see [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML).
 
-3. Between the **body** tag, type "Hello, world!"
+3. Replace the '###' between the **body** tags with "Hello, world!"
+
+!!! note The `<body>` tag in HTML
+    The body tag contains all of the visible content on a web page. Here, we're adding the classic 'Hello world' text so it can show up when you open the HTML file with a browser.
+    
+
 4. Open your folder and double-click on index.html to open it in your browser.
 5. Below the **title** tag, paste the following code snippets.
 
