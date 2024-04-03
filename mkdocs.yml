@@ -4,10 +4,10 @@ extra_css:
 theme:
   name: material
   features:
-    - navigation.tabs
+    - toc.follow
+    - toc.integrate
     - navigation.footer
     - navigation.sections
-    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -30,6 +30,8 @@ theme:
       accent: lime
 
 markdown_extensions:
+  -  toc:
+      permalink: true
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
