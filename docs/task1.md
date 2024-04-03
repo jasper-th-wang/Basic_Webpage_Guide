@@ -49,20 +49,20 @@ NEED SOME TEXT
     !!! note "Basic Structure of a HTML Document"
         An HTML document consists of elements enclosed in tags, defining the structure and content of a webpage. It typically begins with a `<!DOCTYPE html>` declaration followed by `<html>`, `<head>`, and `<body>` tags, where the `<head>` section contains metadata and the `<body>` section holds the visible content.
 
-2. Paste the following code snippet into the file
+2. Paste the following code snippet into the file 
 
-     ??? abstract "Code Snippet of the HTML Boilerplate"
-        ```html
-        <!DOCTYPE html>
-        <html lang="en">
-        <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Document</title>
-        </head>
-        <body>
-        </body>
-        ```
+    ??? abstract "Code Snippet of the HTML Boilerplate"
+         ```html
+         <!DOCTYPE html>
+         <html lang="en">
+         <head>
+           <meta charset="UTF-8">
+           <meta name="viewport" content="width=device-width, initial-scale=1.0">
+           <title>Document</title>
+         </head>
+         <body>
+         </body>
+         ```
 
     !!! note "Metadata in HTML"
         In HTML, the header section contains important information about the document, such as its character encoding, viewport settings for responsive design, and the document's title. Additionally, it can include links to external resources like stylesheets using the <link> tag. To read more about this, see [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML).
