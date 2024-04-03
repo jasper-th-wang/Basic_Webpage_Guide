@@ -67,9 +67,9 @@ NEED SOME TEXT
     !!! note "Metadata in HTML"
         In HTML, the header section contains important information about the document, such as its character encoding, viewport settings for responsive design, and the document's title. Additionally, it can include links to external resources like stylesheets using the <link> tag. To read more about this, see [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML).
 
-   3. Between the **body** tag, type "Hello, world!"
-   4. Open your folder and double-click on index.html to open it in your browser.
-   5. Below the **title** tag, paste the following code snippets
+3. Between the **body** tag, type "Hello, world!"
+4. Open your folder and double-click on index.html to open it in your browser.
+5. Below the **title** tag, paste the following code snippets
 
     ??? abstract "Code Snippet"
         ```html
@@ -78,7 +78,7 @@ NEED SOME TEXT
     !!! note "The `<link>` Tag in HTML"
         The <link> tag in HTML is used to link external resources, such as CSS stylesheets, to a document. Found in the `<head>` section, it specifies the relationship `rel="stylesheet"` and the path `href="path/to/style.css"` to the external file, facilitating the separation of content and style.
 
-   6. In VS Code, Open your style.css file and paste the following snippet 
+6. In VS Code, Open your style.css file and paste the following snippet 
       
     ??? abstract "Code Snippet"
         ```html
@@ -87,7 +87,7 @@ NEED SOME TEXT
         }
         ```
    
-   7. Refresh or reopen index.html in your browser and verify that your hello world text is red
+7. Refresh or reopen index.html in your browser and verify that your hello world text is red
       
 !!! success
 
