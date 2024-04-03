@@ -3,7 +3,7 @@ We've compiled a table of issues that may arise when completing your tasks. If y
 
 ## Task 1: Setting up your webpage project
 
-| Symptom     | Step | What likely happened                         |  How to fix it
+| Symptom     | Step | What likely happened | How to fix it |
 | ----------- |------| ------------------------------------ |
 
 | When using a browser to view your website, the 'Hello World' text is not there
