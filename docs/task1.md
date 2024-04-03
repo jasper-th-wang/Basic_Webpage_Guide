@@ -49,7 +49,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
 
 2. Paste the following code snippet into the file.
 
-    ??? abstract "Code Snippet of the HTML Boilerplate"
+    ??? abstract "Code Snippet"
          ```html
          <!DOCTYPE html>
          <html lang="en">
