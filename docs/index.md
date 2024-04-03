@@ -35,3 +35,24 @@ The main sections of the guide will guide you to do these tasks:
 - Setting up a project structure for your webpage
 - Write the HTML code to add content to your webpage
 - Write the CSS code to style and customize the content
+
+## Conventions for this guide
+
+??? abstract "Code Snippet"
+    ```html
+    <div>
+        <h1>EXAMPLE CODE</h1>
+    </div>
+    ```
+
+Code snippets give sample code to copy and paste into your project. You can copy the whole snippet by clicking the icon on the top right.
+
+
+### Notes
+
+!!! note
+    These give additional context to the tasks you're completing
+
+
+!!! success
+    These give an example of the intended outcome of a step
