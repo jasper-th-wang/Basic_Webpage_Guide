@@ -53,9 +53,5 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-plugins:
-  - search
-  - table-reader
-
 copyright: |
   &copy; 2024 Jasper and Daylen
