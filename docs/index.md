@@ -38,17 +38,20 @@ The main sections of the guide will guide you to do these tasks:
 
 ## Conventions for this guide
 
-??? abstract "Code Snippet"
+Throughout this guide, you will see the following conventions:
+
+!!! abstract "Code Snippet"
     ```html
     <div>
-        <h1>EXAMPLE CODE</h1>
+        <h1>This is a code snippet that you can copy and paste into your files</h1>
     </div>
     ```
 
-Code snippets give sample code to copy and paste into your project. You can copy the whole snippet by clicking the icon on the top right of the code box.
-
-
-### Notes
+```html title="Example"
+    <div>
+        <h1>This is an example code to demonstrate and clarify the instruction</h1>
+    </div>
+```
 
 !!! note
     These give additional context to the tasks you're completing

@@ -63,12 +63,24 @@ Classes are reusable styles that can be applied to multiple elements. In this ex
     !!! note "HTML classes"
         HTML classes are the second part of the CSS class selector. In order for the CSS class to be applied to an element, the class must be defined in the HTML. They are defined using the `class` attribute followed by the class name. In this case, the `my_intro` class is applied to the `div` element wrapping the `h1` and `p` content.
    
-4. In your `index.html` file, add the class `my_intro` to the `div` element wrapping the `h1` and `p` content:
+4. In your `index.html` file, add the class `my_intro` to the `div` element wrapping the `ul` unordered list:
+
+    ```html title="index.html"
+    <div class="my_intro">
+        <ul>
+          <li>Our favorite snacks: potato chips</li>
+          <li>Our favorite music genre: country</li>
+          <li><a href="https://catoftheday.com/">Good website</a></li>
+        </ul>
+    </div>
+    ```
 
 5. Save your files and refresh your browser to see the changes.
     
     !!! success "Success"
-        You have successfully styled your webpage using CSS selectors and classes. The list items in your unordered list are now red and underlined, and the `div` element wrapping the `h1` and `p` content has a light blue background, padding, and a black border.
+        You have successfully styled your webpage using CSS selectors and classes. The list items in your unordered list are now red and underlined, and the `div` element wrapping the `h1`, `p` and `li` content has a light blue background, padding, and a black border.
+        
+        ![Styling website success](./assets/task3/task3-result.png)
 
 [//]: # (        TODO: Add images to show the changes in the webpage.)
 
