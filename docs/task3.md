@@ -1,6 +1,6 @@
 # Styling your website
 
-This section will show you how to style the content you added in the previous section. You’ll use  CSS selectors to specify which elements you’ll add which styles to.
+This section will show you how to style the content you added in the previous section. You’ll use CSS selectors to specify which elements you’ll add which styles to.
 
 ## Styling elements using the a type selector
 
@@ -63,4 +63,19 @@ Classes are reusable styles that can be applied to multiple elements. In this ex
     !!! note "HTML classes"
         HTML classes are the second part of the CSS class selector. In order for the CSS class to be applied to an element, the class must be defined in the HTML. They are defined using the `class` attribute followed by the class name. In this case, the `my_intro` class is applied to the `div` element wrapping the `h1` and `p` content.
    
-4. 
+4. In your `index.html` file, add the class `my_intro` to the `div` element wrapping the `h1` and `p` content:
+
+5. Save your files and refresh your browser to see the changes.
+    
+    !!! success "Success"
+        You have successfully styled your webpage using CSS selectors and classes. The list items in your unordered list are now red and underlined, and the `div` element wrapping the `h1` and `p` content has a light blue background, padding, and a black border.
+
+[//]: # (        TODO: Add images to show the changes in the webpage.)
+
+## All done! 🎉
+Here's what you've accomplished in the guide:
+
+- [x] Styled your webpage using CSS selectors and classes.
+- [x] Applied styles to list items and a `div` element.
+- [x] Learned how to use CSS declarations to change the style of elements.
+- [x] And you made a webpage that looks great!
