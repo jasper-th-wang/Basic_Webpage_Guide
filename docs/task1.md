@@ -68,8 +68,8 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
 
 3. Replace the '###' between the **body** tags with "Hello, world!"
 
-!!! note The `<body>` tag in HTML
-    The body tag contains all of the visible content on a web page. Here, we're adding the classic 'Hello world' text so it can show up when you open the HTML file with a browser.
+    !!! note "The `<body>` tag in HTML"
+        The body tag contains all of the visible content on a web page. Here, we're adding the classic 'Hello world' text so it can show up when you open the HTML file with a browser.
     
 
 4. Open your folder and double-click on index.html to open it in your browser.
