@@ -1,0 +1,12 @@
+## Glossary
+
+|  Term      　         | Definition   　 |
+|-----------------------|----------------|
+| CSS | Cascading Style Sheets. A language used for styling the presentation of HTML elements on a webpage. It allows developers to control aspects like colors, fonts, spacing, and layout to enhance the visual appearance of the content.
+| CSS selector | A CSS selector is a pattern used to select and style HTML elements based on their attributes, types, classes, IDs, or relationships with other elements in a webpage's structure.
+| HTML | HyperText Markup Language. The standard language used to create and design web pages. It consists of a set of tags and elements that structure the content and define its layout on a webpage
+| HTML element | An HTML element is a fundamental building block of a webpage, representing different types of content or functionality, such as text, images, links, forms, and more. Each element is defined by tags and may contain attributes and nested elements.
+| HTML tag | An HTML tag is a code element used to define the structure and content of a webpage. Tags are enclosed in angle brackets (`<` and `>`) and usually come in pairs: an opening tag and a closing tag. Opening tags indicate the beginning of an element, while closing tags denote its end. For example, `<p>` is the opening tag for a paragraph element, and `</p>` is its corresponding closing tag.
+| HTML Metadata | HTML metadata provides information about the HTML document itself, rather than its content. Metadata includes elements like `<title>`, `<meta>`, `<link>`, `<style>`, and `<script>`, which convey details such as the document's title, character encoding, stylesheet links, and more. Metadata is crucial for search engines, browsers, and other web services to interpret and display webpages correctly.
+| URL | Uniform Resource Locator. A string of characters that specifies the address of a resource on the internet. It serves as a reference to locate various resources such as web pages, images, videos, files, etc. A URL typically consists of several components, including the protocol (such as HTTP or HTTPS), domain name, path, and optional query parameters.
+| VS Code | a source-code editor developed by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded version control with Git.
