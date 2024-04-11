@@ -1,4 +1,4 @@
-# Styling your website
+# Styling your webpage
 
 This section will show you how to style the content you added in the previous section. You’ll use CSS selectors to specify which elements you’ll add which styles to.
 
@@ -80,7 +80,7 @@ Classes are reusable styles that can be applied to multiple elements. In this ex
     !!! success "Success"
         You have successfully styled your webpage using CSS selectors and classes. The list items in your unordered list are now red and underlined, and the `div` element wrapping the `h1`, `p` and `li` content has a light blue background, padding, and a black border.
         
-        ![Styling website success](./assets/task3/task3-result.png)
+        ![Styling webpage success](./assets/task3/task3-result.png)
 
 [//]: # (        TODO: Add images to show the changes in the webpage.)
 

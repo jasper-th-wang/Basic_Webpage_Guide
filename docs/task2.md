@@ -1,6 +1,6 @@
 # Adding your information as HTML
 
-This section will show you how to add content to your webpage using HTML. You will add new elements, nest elements inside each other, and even add clickable links! When you’re done, your website will look like this: [image of unstyled website]
+This section will show you how to add content to your webpage using HTML. You will add new elements, nest elements inside each other, and even add clickable links!
 
 ## Reverting your changes
 
@@ -10,7 +10,7 @@ In the last section, you added red hello world text to ensure that your CSS file
 
 2. Delete the contents inside the `style.css` file
 
-## Building your website
+## Building your webpage
 
 You now have a blank slate to start adding your content! At any point during these steps, feel free to refresh your web page and see your changes.
 
@@ -25,7 +25,7 @@ You now have a blank slate to start adding your content! At any point during the
     !!! note "The `<h1>` Tag in HTML"
         The `<h1>` tag defines the most important _heading_ in an HTML document. Headings are hierarchical, and the `<h1>` represents the highest level of headings, typically used for the main title or headline of a page. It renders text in a bold and larger font size by default, helping to structure content and improve accessibility and SEO.
    
-3. Replace the `###` inside the `<h1>` tag with a interesting title for your website:
+3. Replace the `###` inside the `<h1>` tag with a interesting title for your webpage:
 
     ```html title="Example"
     <h1>Jasper's and Daylen's Webpage</h1>
@@ -40,7 +40,7 @@ You now have a blank slate to start adding your content! At any point during the
     !!! note "The `<p>` Tag in HTML"
         The `<p>` tag defines a _paragraph_ of text in an HTML document. It creates a new line before and after the content, making it suitable for long-form text, such as articles, blog posts, and descriptions. By default, it renders text in a normal font size and weight, providing a clear visual separation from other content.
    
-5. Replace the `###` inside the `<p>` tag with a short introduction of yourself or your website:
+5. Replace the `###` inside the `<p>` tag with a short introduction of yourself or your webpage:
 
     ```html title="Example"
     <p>We are CST students who love making websites using HTML and CSS.</p>
@@ -59,7 +59,7 @@ You now have a blank slate to start adding your content! At any point during the
     !!! note "The `<ul>` and `<li>` Tag in HTML"
         The `<ul>` tag defines an _unordered list_ in an HTML document. It creates a bulleted list of items, typically used for navigation menus, feature lists, and other collections of related content. Each _list item_ is defined by the `<li>` tag, which renders content as a bullet point by default.
    
-7. Replace the `###` inside the _first two_ `<li></li>` tags with three interesting facts about yourself or your website:
+7. Replace the `###` inside the _first two_ `<li></li>` tags with three interesting facts about yourself or your webpage:
 
     ```html title="Example"
     <ul>
@@ -112,7 +112,7 @@ You now have a blank slate to start adding your content! At any point during the
 
 !!! success
 
-    You’ve successfully added some basic structure to your website set yourself up for easier styling in the future! Your html document should now look like this:
+    You’ve successfully added some basic structure to your webpage set yourself up for easier styling in the future! Your html document should now look like this:
     
     ```html
     <div>
@@ -132,6 +132,6 @@ You now have a blank slate to start adding your content! At any point during the
 
 By completing this section, you have:
 
-- [x] Added the structure for your website
-- [x] Made a clickable link to your webpage that actually redirects to another website
+- [x] Added the structure for your webpage
+- [x] Made a clickable link to your webpage that actually redirects to another webpage
 - [x] Structured your HTML using divs such that it can be styled more efficiently

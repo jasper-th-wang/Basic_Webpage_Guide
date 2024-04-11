@@ -12,12 +12,12 @@ We've compiled a table of issues that may arise when completing your tasks. If y
 
 | Issue                                 | Related Step               | What likely happened                   | How to fix it                                                                      |
 |---------------------------------------|----------------------------|---------------------------------------|------------------------------------------------------------------------------------|
-| The link you added does not work      | Building your website, Step 4 or 6 | The url you added is incomplete       | Ensure that the 'https://' is included in your url and that it is enclosed in double quotes |
-| List content doesn’t have a bullet point | Building your website, step 7 | The content you added wasn’t wrapped correctly in list index tags | Recopy the code snippet from step 6 and replace all of the text from the opening `<ul>` tag to the closing `</ul>` tag with it. Replace the ### signs making sure to not replace any |
+| The link you added does not work      | Building your webpage, Step 4 or 6 | The url you added is incomplete       | Ensure that the 'https://' is included in your url and that it is enclosed in double quotes |
+| List content doesn’t have a bullet point | Building your webpage, step 7 | The content you added wasn’t wrapped correctly in list index tags | Recopy the code snippet from step 6 and replace all of the text from the opening `<ul>` tag to the closing `</ul>` tag with it. Replace the ### signs making sure to not replace any |
 
-## Task 3: Styling your website
+## Task 3: Styling your webpage
 
 | Issue                                 | Related Step               | What likely happened                               | How to fix it                                                                 |
 |---------------------------------------|----------------------------|----------------------------------------------------|-------------------------------------------------------------------------------|
-| The class style you applied does not show up | Building your website, Step 4 | The class you added to the HTML does not match the declaration in style.css. | Ensure that the class="" has the case sensitive, full class declaration without the leading '.' inside the double quotes. |
-| The id style you applied does not show up    | Building your website, Step 6 | The id you added to the HTML does not match the declaration in style.css.    | Ensure that the id="" has the case sensitive, full class declaration without the leading '#' inside the double quotes.    |
+| The class style you applied does not show up | Building your webpage, Step 4 | The class you added to the HTML does not match the declaration in style.css. | Ensure that the class="" has the case sensitive, full class declaration without the leading '.' inside the double quotes. |
+| The id style you applied does not show up    | Building your webpage, Step 6 | The id you added to the HTML does not match the declaration in style.css.    | Ensure that the id="" has the case sensitive, full class declaration without the leading '#' inside the double quotes.    |

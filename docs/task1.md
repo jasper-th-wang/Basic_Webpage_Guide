@@ -6,7 +6,7 @@ This section will show you how to set up a basic webpage project. You will make 
 
 Before we start writing the HTML and CSS code, it is important to set up an organized project structure as outlined below.
 
-1. Make a folder on your desktop titled “My first website”.
+1. Make a folder on your desktop titled “My first webpage”.
 2. Open VS Code.
 3. Do any of the following to open your project in VS Code:
     - In VS Code, click **File** > **Open** and find your “My first webpage” folder.
@@ -29,7 +29,7 @@ Before we start writing the HTML and CSS code, it is important to set up an orga
 
     Here is what the project structure will look like.
     ```
-    My first website/
+    My first webpage/
     ├── index.html
     └── style.css
     ```
