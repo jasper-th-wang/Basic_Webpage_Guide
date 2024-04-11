@@ -112,7 +112,7 @@ You now have a blank slate to start adding your content! At any point during the
 
 !!! success
 
-    You’ve successfully added some basic structure to your webpage set yourself up for easier styling in the future! Your html document should now look like this:
+    You’ve successfully added some basic structure to your webpage set yourself up for easier styling in the future! Your HTML document should now look like this:
     
     ```html
     <!DOCTYPE html>
