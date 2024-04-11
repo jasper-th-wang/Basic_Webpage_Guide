@@ -1,8 +1,8 @@
-# MKDocs Basic Webpage Setup Guide
+# Basic Webpage Setup Guide
 
 ## Description
 
-The MKDocs Basic Webpage Setup project is designed to provide a comprehensive guide for beginners in web development, focusing on creating a simple webpage from scratch. 
+The Basic Webpage Setup project is designed to provide a comprehensive guide for beginners in web development, focusing on creating a simple webpage from scratch. 
 Developed as a practice exercise for writing thorough and user-friendly documentation using Markdown and MkDocs.
 
 This guide provides step-by-step instructions for creating a simple personal webpage using Visual Studio Code (VS Code), covering the basics of web development with HTML and CSS. It's designed for individuals with basic computer skills who are new to web development and want to create their own webpage. The guide includes details on necessary software, project structure setup, writing HTML and CSS code, and conventions used throughout the guide. Additionally, it offers code snippets, examples, notes, and success indicators to aid in understanding and completing the tasks.
@@ -29,26 +29,31 @@ This section provides a detailed guide on setting up a basic webpage project usi
 ### Adding your information as HTML
 This section guides you through adding content to your webpage using HTML. It includes instructions for reverting changes made in the previous section, then walks you through building your webpage step by step. You'll learn to add headings, paragraphs, unordered lists, and clickable links. The guide also explains HTML tags and provides code snippets for each step. By the end, you'll have structured your webpage's content efficiently with `<div>` tags and created a clickable link to another website.
 
-### Styling your website
+### Styling your webpage
 This section guides you through styling the content of your webpage using CSS selectors and classes. It starts by explaining how to style elements using type selectors, targeting all list items in an unordered list. Then, it demonstrates styling multiple elements using classes, creating a reusable style for headings. The guide includes step-by-step instructions with code snippets for both CSS and HTML files. By the end, you've successfully applied styles to your webpage, including changing the color and decoration of list items and adding background color, padding, and border to a div element. Finally, it highlights your accomplishments and congratulates you on creating a great-looking webpage.
 
 ## Methods and Processes Used
-### VS Code
 
-Visual Studio Code served as a versatile hub for all our development tasks. We crafted comprehensive documentation and README files With its Markdown rendering. Leveraging its integrated terminal, we managed dependencies with ease, especially with MKDocs. VS Code's native Git integration streamlined version control, enabling us to track changes, collaborate effectively, and pinpoint style issues. Real-time collaboration features and extensions like Live Share facilitated swift teamwork, enhancing productivity.
+### Languages
 
-### MKDocs
+We used markdown, python and yaml in this project.
 
-We used [Material for MKDocs](https://github.com/squidfunk/mkdocs-material) as the foundation of our project. This tool enabled us to easily add features and integrate style choices into our documentation website. With MKDocs, we could write content in Markdown format and convert it into a static website with essential features like a table of contents, navigation menus, informative admonitions, and a troubleshooting guide. MKDocs' support for various themes and extensions allowed us to customize and enhance our documentation website to meet our specific requirements.
+### Development tools
+#### VS Code
 
-### Markdown
+We wrote our comprehensive documentation and README files leveraging VS Code’s Markdown renderer and previewer. 
 
-## Collaboration Techniques Used
+We also heavily used VS Code's GitLens extension to streamline version control, enabling us to track changes, collaborate effectively with so many concurrent git commits on the same files.
 
-We divided our tasks according to individual strengths, coupled with a commitment to mutual learning. We regularly conducted in-person and virtual meetings to review each other's work, offer feedback, and learn from each other. We used Trello, Zoom, and Discord to communicate frequently and efficiently, ensuring our tasks were completed ahead of time. With help from our cohort at BCIT, we conducted user testing sessions which allowed us to validate our progress and refine our style choices. We also conducted thorough code reviews and established realistic deadlines for tasks. 
+#### MKDocs
+
+We used [Material for MKDocs](https://github.com/squidfunk/mkdocs-material) as the foundation of our project. This tool enabled us to easily add features and integrate style choices into our documentation website. With MKDocs, we could write content in Markdown format and convert it into a static website with essential features like a table of contents, navigation menus, informative admonitions, and a troubleshooting guide.
+
+MKDocs' support for various themes and extensions that are configurable using a `.yaml` file, which allowed us to make the guide that much more easy to use!
 
 ## About Us
 ### [Daylen Smith](https://github.com/rockclimber147)
-An enthusiastic and passionate developer currently studying at the British Columbia Institute of Technology. One of my standout projects so far has been crafting a complete Jack compiler following [The Elements of Computing Systems](https://books.google.ca/books/about/The_Elements_of_Computing_Systems.html?id=THie6tt-2z8C&redir_esc=y) using Java. I recently served as team lead for a group project developing a Huffman encoder using C.
+I am an enthusiastic and passionate developer currently studying at the British Columbia Institute of Technology. One of my standout projects so far has been crafting a complete Jack compiler following [The Elements of Computing Systems](https://books.google.ca/books/about/The_Elements_of_Computing_Systems.html?id=THie6tt-2z8C&redir_esc=y) using Java. I recently served as team lead for a group project developing a Huffman encoder using C.
 
 ### [Jasper Wang](https://github.com/jasper-th-wang)
+I’m a full stack developer and I’m passionate about making cool stuff and solving problems. I’m currently studying Computer Science at BCIT.
