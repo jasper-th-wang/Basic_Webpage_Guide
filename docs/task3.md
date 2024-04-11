@@ -19,7 +19,7 @@ Type selectors target all elements of a specific type. In this example, you will
 
 2. Inside the curly braces, add the following properties and values:
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
          ```css
          color: red;
          text-decoration: underline;
@@ -44,7 +44,7 @@ Classes are reusable styles that can be applied to multiple elements. In this ex
    
 2. Inside the curly braces, add the following properties and values:
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
          ```css
          background-color: lightblue;
          padding: 20px;

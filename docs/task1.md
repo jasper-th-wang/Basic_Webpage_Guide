@@ -49,7 +49,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
 
 2. Paste the following code snippet into the file.
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
          ```html
          <!DOCTYPE html>
          <html lang="en">
@@ -75,7 +75,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
 4. Open your folder and double-click on `index.html` to open it in your browser.
 5. Below the `<title>` tag, paste the following code snippets.
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
         ```html
         <link rel="stylesheet" href="./style.css">  
         ```
@@ -84,7 +84,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
 
 6. In VS Code, Open your `style.css` file and paste the following snippet.
       
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
         ```html
         body {
             color: red;

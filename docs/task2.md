@@ -18,7 +18,7 @@ You now have a blank slate to start adding your content! At any point during the
 
 2. Copy the following `<h1>` code snippet and paste it in between the `body` tags where the "Hello, world!" text used to be.
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
          ```html
          <h1>###</h1>
          ```
@@ -33,7 +33,7 @@ You now have a blank slate to start adding your content! At any point during the
 
 4. Copy the following `<p>` code snippet and paste it below the `<h1>` tag
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
          ```html
          <p>###</p>
          ```
@@ -48,7 +48,7 @@ You now have a blank slate to start adding your content! At any point during the
 
 6. Copy the following `<ul>` code snippet and paste it below the `<p>` tag
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
          ```html
          <ul>
            <li>###</li>
@@ -71,7 +71,7 @@ You now have a blank slate to start adding your content! At any point during the
 
 8. Copy the following `<a>` code snippet, replace the `###` and paste inside the _last_ `<li></li>` tag
 
-    ??? abstract "Code Snippet"
+    !!! abstract "Code Snippet"
          ```html
          <a href="###">###</a>
          ```
