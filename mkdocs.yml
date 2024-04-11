@@ -29,6 +29,14 @@ theme:
       primary: teal
       accent: lime
 
+nav:
+  - Introduction: index.md
+  - Setting up your webpage project: task1.md
+  - Adding your information as HTML: task2.md
+  - Styling your webpage: task3.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+
 markdown_extensions:
   -  toc:
       permalink: true

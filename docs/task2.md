@@ -14,7 +14,7 @@ In the last section, you added red hello world text to ensure that your CSS file
 
 You now have a blank slate to start adding your content! At any point during these steps, feel free to refresh your web page and see your changes.
 
-1. Open index.html if you’re not there already
+1. Open `index.html` if you’re not there already
 
 2. Copy the following `<h1>` code snippet and paste it in between the `body` tags
 

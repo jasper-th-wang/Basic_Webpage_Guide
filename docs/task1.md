@@ -20,9 +20,9 @@ Before we start writing the HTML and CSS code, it is important to set up an orga
 
 4. Click the **New file** button.
     ![New File Button](./assets/task1/new-file.png)
-5. Name the new file “index.html” and hit enter.
+5. Name the new file `index.html` and hit enter.
 6. Click the **New file** button again.
-7. Name the file “style.css” and hit enter.
+7. Name the file `style.css` and hit enter.
 8. You should now have a folder with two files in it.
 
 !!! success
@@ -42,7 +42,7 @@ Before we start writing the HTML and CSS code, it is important to set up an orga
 
 Now, let's link your CSS file to your HTML file and write some CSS code to style your webpage.
 
-1. In VS Code, open your index.html file.
+1. In VS Code, open your `index.html` file.
 
     !!! note "Basic Structure of a HTML Document"
         An HTML document consists of elements enclosed in tags, defining the structure and content of a webpage. It typically begins with a `<!DOCTYPE html>` declaration followed by `<html>`, `<head>`, and `<body>` tags, where the `<head>` section contains metadata and the `<body>` section holds the visible content.
@@ -72,7 +72,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
         The body tag contains all of the visible content on a web page. Here, we're adding the classic 'Hello world' text so it can show up when you open the HTML file with a browser.
     
 
-4. Open your folder and double-click on index.html to open it in your browser.
+4. Open your folder and double-click on `index.html` to open it in your browser.
 5. Below the `<title>` tag, paste the following code snippets.
 
     ??? abstract "Code Snippet"
@@ -82,7 +82,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
     !!! note "The `<link>` Tag in HTML"
         The <link> tag in HTML is used to link external resources, such as CSS stylesheets, to a document. Found in the `<head>` section, it specifies the relationship `rel="stylesheet"` and the path `href="path/to/style.css"` to the external file, facilitating the separation of content and style.
 
-6. In VS Code, Open your style.css file and paste the following snippet.
+6. In VS Code, Open your `style.css` file and paste the following snippet.
       
     ??? abstract "Code Snippet"
         ```html
@@ -91,7 +91,7 @@ Now, let's link your CSS file to your HTML file and write some CSS code to style
         }
         ```
    
-7. Refresh or reopen index.html in your browser and verify that your hello world text is red.
+7. Refresh or reopen `index.html` in your browser and verify that your hello world text is red.
       
 !!! success
 

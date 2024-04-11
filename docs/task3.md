@@ -82,8 +82,6 @@ Classes are reusable styles that can be applied to multiple elements. In this ex
         
         ![Styling webpage success](./assets/task3/task3-result.png)
 
-[//]: # (        TODO: Add images to show the changes in the webpage.)
-
 ## All done! 🎉
 Here's what you've accomplished in the guide:
 
