@@ -1,0 +1,24 @@
+.md-content img {
+    display: block;
+    width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+    border-radius: 20px;
+}
+
+.md-typeset ol li, .md-typeset ul li {
+    margin-left: 1em;
+}
+
+
+.md-typeset ol li img, .md-typeset ul li img {
+    margin-top: 1em;
+}
+
+@media only screen and (min-width: 600px) {
+    .md-content img {
+        width: 70%;
+  }
+}
+
