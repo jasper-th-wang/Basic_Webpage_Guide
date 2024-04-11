@@ -16,7 +16,7 @@ You now have a blank slate to start adding your content! At any point during the
 
 1. Open `index.html` if you’re not there already
 
-2. Copy the following `<h1>` code snippet and paste it in between the `body` tags
+2. Copy the following `<h1>` code snippet and paste it in between the `body` tags where the "Hello, world!" text used to be.
 
     ??? abstract "Code Snippet"
          ```html
