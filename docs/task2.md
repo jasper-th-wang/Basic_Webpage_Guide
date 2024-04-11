@@ -115,17 +115,26 @@ You now have a blank slate to start adding your content! At any point during the
     You’ve successfully added some basic structure to your webpage set yourself up for easier styling in the future! Your html document should now look like this:
     
     ```html
-    <div>
-        <h1>Jasper's and Daylen's Webpage</h1>
-        <p>We are CST students who love making websites using HTML and CSS.</p>
-    </div>
-    <div>
-        <ul>
-            <li>Our favorite snacks: potato chips</li>
-            <li>Our favorite music genre: country</li>
-            <li><a href="https://catoftheday.com/">Good website</a></li>
-        </ul>
-    </div>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    </head>
+    <body>
+        <div>
+            <h1>Jasper's and Daylen's Webpage</h1>
+            <p>We are CST students who love making websites using HTML and CSS.</p>
+        </div>
+        <div>
+            <ul>
+                <li>Our favorite snacks: potato chips</li>
+                <li>Our favorite music genre: country</li>
+                <li><a href="https://catoftheday.com/">Good website</a></li>
+            </ul>
+        </div>
+    </body>
     ```
 
 ## Your accomplishments so far
