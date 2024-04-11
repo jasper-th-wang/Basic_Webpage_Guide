@@ -58,5 +58,10 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jasper-th-wang/Basic_Webpage_Guide
+
 copyright: |
   &copy; 2024 Jasper and Daylen
