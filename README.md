@@ -36,7 +36,7 @@ This section guides you through styling the content of your webpage using CSS se
 
 ### Languages
 
-We used markdown, python and yaml in this project.
+We used markdown, python, css and yaml in this project.
 
 ### Development tools
 #### VS Code
@@ -50,6 +50,14 @@ We also heavily used VS Code's GitLens extension to streamline version control, 
 We used [Material for MKDocs](https://github.com/squidfunk/mkdocs-material) as the foundation of our project. This tool enabled us to easily add features and integrate style choices into our documentation website. With MKDocs, we could write content in Markdown format and convert it into a static website with essential features like a table of contents, navigation menus, informative admonitions, and a troubleshooting guide.
 
 MKDocs' support for various themes and extensions that are configurable using a `.yaml` file, which allowed us to make the guide that much more easy to use!
+
+## Collaboration Techniques Used
+
+We divided our tasks according to individual strengths- Daylen worked on more technical writing side of the tasks, and Jasper worked on more front-end development aspect of the project.
+
+We regularly conducted in-person and virtual meetings to review each other's work, offer feedback during our code reviews. We used Trello, Zoom, and Discord to communicate frequently and efficiently, ensuring our tasks were completed ahead of time. 
+
+Also, with help from our cohort at BCIT, we conducted user testing sessions which allowed us to validate the user experience of the guide and refine our style choices.
 
 ## About Us
 ### [Daylen Smith](https://github.com/rockclimber147)
