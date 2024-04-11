@@ -32,22 +32,23 @@ This section guides you through adding content to your webpage using HTML. It in
 ### Styling your website
 This section guides you through styling the content of your webpage using CSS selectors and classes. It starts by explaining how to style elements using type selectors, targeting all list items in an unordered list. Then, it demonstrates styling multiple elements using classes, creating a reusable style for headings. The guide includes step-by-step instructions with code snippets for both CSS and HTML files. By the end, you've successfully applied styles to your webpage, including changing the color and decoration of list items and adding background color, padding, and border to a div element. Finally, it highlights your accomplishments and congratulates you on creating a great-looking webpage.
 
-## Methods and Processes
+## Methods and Processes Used
 ### VS Code
 
 Visual Studio Code served as a versatile hub for all our development tasks. We crafted comprehensive documentation and README files With its Markdown rendering. Leveraging its integrated terminal, we managed dependencies with ease, especially with MKDocs. VS Code's native Git integration streamlined version control, enabling us to track changes, collaborate effectively, and pinpoint style issues. Real-time collaboration features and extensions like Live Share facilitated swift teamwork, enhancing productivity.
 
 ### MKDocs
 
-We used MKDocs, a popular static site generator, as the foundation of our project. This tool enabled us to easily add features and integrate style choices into our documentation website. With MKDocs, we could write content in Markdown format and convert it into a static website with essential features like table of contents, navigation menus, and search functionality. MKDocs' support for various themes and extensions further allowed us to customize and enhance our documentation website to meet our specific requirements.
+We used [Material for MKDocs](https://github.com/squidfunk/mkdocs-material) as the foundation of our project. This tool enabled us to easily add features and integrate style choices into our documentation website. With MKDocs, we could write content in Markdown format and convert it into a static website with essential features like a table of contents, navigation menus, informative admonitions, and a troubleshooting guide. MKDocs' support for various themes and extensions allowed us to customize and enhance our documentation website to meet our specific requirements.
 
 ### Markdown
 
+## Collaboration Techniques Used
 
+We divided our tasks according to individual strengths, coupled with a commitment to mutual learning. We regularly conducted in-person and virtual meetings to review each other's work, offer feedback, and learn from each other. We used Trello, Zoom, and Discord to communicate frequently and efficiently, ensuring our tasks were completed ahead of time. With help from our cohort at BCIT, we conducted user testing sessions which allowed us to validate our progress and refine our style choices. We also conducted thorough code reviews and established realistic deadlines for tasks. 
 
+## About Us
+### [Daylen Smith](https://github.com/rockclimber147)
+An enthusiastic and passionate developer currently studying at the British Columbia Institute of Technology. One of my standout projects so far has been crafting a complete Jack compiler following [The Elements of Computing Systems](https://books.google.ca/books/about/The_Elements_of_Computing_Systems.html?id=THie6tt-2z8C&redir_esc=y) using Java. I recently served as team lead for a group project developing a Huffman encoder using C.
 
-
-
-## About
-
-Brief bio or introduction, highlighting your skills and expertise. This section serves to sell your skills in process and product to potential employers or collaborators.
+### [Jasper Wang](https://github.com/jasper-th-wang)
