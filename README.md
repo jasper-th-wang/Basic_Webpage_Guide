@@ -61,7 +61,7 @@ Also, with help from our cohort at BCIT, we conducted user testing sessions whic
 
 ## About Us
 ### [Daylen Smith](https://github.com/rockclimber147)
-I am an enthusiastic and passionate developer currently studying at the British Columbia Institute of Technology. One of my standout projects so far has been crafting a complete Jack compiler following [The Elements of Computing Systems](https://books.google.ca/books/about/The_Elements_of_Computing_Systems.html?id=THie6tt-2z8C&redir_esc=y) using Java. I recently served as team lead for a group project developing a Huffman encoder using C.
+I am an enthusiastic and passionate developer currently studying at the British Columbia Institute of Technology. One of my standout projects so far has been crafting a complete Jack compiler following [The Elements of Computing Systems](https://books.google.ca/books/about/The_Elements_of_Computing_Systems.html?id=THie6tt-2z8C&redir_esc=y) using Java.
 
 ### [Jasper Wang](https://github.com/jasper-th-wang)
 I’m a full stack developer and I’m passionate about making cool stuff and solving problems. I’m currently studying Computer Science at BCIT.
